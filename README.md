@@ -88,7 +88,7 @@ Currently exploring **Python, AI/ML, predictive analytics, and automation**, and
 ## 🌐 Connect With Me
 - **Portfolio:** https://ghanshyamsen.github.io/  
 - **GitHub:** https://github.com/ghanshyamsen  
-- **LinkedIn:** https://www.linkedin.com/in/ghanshyam-sen-033136166/  
+- **LinkedIn:** https://www.linkedin.com/in/ghanshyam-sen/  
 - **Email:** senghanshyamjdp@gmail.com  
 
 ---
