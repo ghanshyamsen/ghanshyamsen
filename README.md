@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/ghanshyamsen"><img src="https://img.shields.io/github/followers/ghanshyamsen?label=Followers&style=social" /></a>
   <a href="https://ghanshyamsen.github.io/"><img src="https://img.shields.io/badge/Portfolio-blue?style=flat&logo=google-chrome" /></a>
-  <a href="https://www.linkedin.com/in/ghanshyam-sen-033136166/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/ghanshyam-sen/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
 </p>
 
 ---
