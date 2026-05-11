@@ -173,11 +173,12 @@ Currently expanding into **AI/ML and predictive analytics** to build data-driven
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ghanshyamsen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ghanshyamsen&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghanshyamsen&bg_color=0d1117&color=34a89d&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph"
+/>
 </p>
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanshyamsen&show_icons=true&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" />
+  <img  src="https://awesome-github-stats.azurewebsites.net/user-stats/ghanshyamsen?cardType=github&theme=vue&preferLogin=true" />
+  <img src="https://streak-stats.demolab.com/?user=ghanshyamsen&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
